@@ -6,7 +6,7 @@ Od dłuższego czasu siedzę głównie w botach Discord oraz pluginach Minecraft
 
 Prowadzę też Veyra Development, gdzie wrzucam swoje projekty, pluginy, boty i inne devowe rzeczy.
 
-Skills: Java / Kotlin / Node.js / Discord.js / JDA / MongoDB / MySQL / Paper API
+Skills: Java / Node.js / Discord.js / JDA / MongoDB / MySQL / Paper API
 
 
 
